@@ -1,0 +1,72 @@
+ body {
+        background-image: url(https://img.freepik.com/free-vector/science-atom-background-vector-gradient-blue-education-remix_53876-125994.jpg?semt=ais_hybrid);
+            
+            background-size: cover; 
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+
+.header {
+            background-color: #415A77;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            border-radius: 5px;
+        }
+
+.content {
+           padding: 20px;
+           background-color: #778DA9; 
+           border-radius: 5px;
+           box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+           opacity: 0.9; /* Slight transparency */
+        }
+.footer {
+            text-align: center;
+            margin-top: 20px;
+
+
+        }
+
+h2 {
+    text-align: center;
+}
+
+#PhoneNumber, #Age, #Email, #order. #FullName {
+    background-color: #1B263B ;
+
+}
+
+h1 {
+    color: 415A77;
+    text-align: center;
+    background-color: #778DA9;
+    margin: auto;
+    width: 300px;
+    border: 5px solid #E0E1DD;
+    border-radius: 10px;
+
+}
+
+button[type="submit"]{
+    background-color: #0D1B2A;
+    width: 150px;
+    height: 50px;
+    font-family:    Courier New;
+}
+
+p {
+    text-align: center;
+}
+
+.about{
+    width: 300px;
+    height: 100px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
